@@ -6,7 +6,7 @@ Luke Cowley
 28/10/2025
 CL1
 
-I, Luke Cowley (ST10448051), hereby declare that I used generative AI tools (specifically Google Gemini) during the completion of this POE.
+I, Luke Cowley (ST10448051), hereby declare that I used generative AI tools (specifically Google Gemini) during the completion of this Exam.
 AI was used only to:
 •	Debug code,
 •	Receive guidance on best practices,
